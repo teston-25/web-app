@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 15px;
+  background: rgb(219, 216, 216);
+  align-items: center;
+}
+.content ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  padding-right: 50px;
+}
+.content ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
